@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "pikachu",
+    "numero": "0025",
+    "ataque": 55,
+    "defesa": 40
+  },
+  {
+    "nome": "charmander",
+    "numero": "0004",
+    "ataque": 52,
+    "defesa": 43
+  },
+  {
+    "nome": "bulbasaur",
+    "numero": "0001",
+    "ataque": 49,
+    "defesa": 49
+  }
+]

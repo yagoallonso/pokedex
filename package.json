@@ -1,0 +1,23 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Teste QA Squadra Yago Alonso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagoallonso/pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagoallonso/pokedex/issues"
+  },
+  "homepage": "https://github.com/yagoallonso/pokedex#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
