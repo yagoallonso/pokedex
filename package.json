@@ -4,7 +4,9 @@
   "description": "Teste QA Squadra Yago Alonso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run",
+    "record": "npx cypress run --record --key ccafc797-5e83-4b11-bbda-c4e81d595854"
+      
   },
   "repository": {
     "type": "git",
