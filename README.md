@@ -1,2 +1,2 @@
 # pokedex
-Teste QA Squadra Yago Alonso
+Template Yago Alonso
